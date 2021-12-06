@@ -1,0 +1,21 @@
+{
+  "name": "product-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Orlov Sergei",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.2",
+    "mongoose": "^6.0.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

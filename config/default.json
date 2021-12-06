@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoURI": "mongodb+srv://user:user@cluster0.kwnet.mongodb.net/productList?retryWrites=true&w=majority"
+}
